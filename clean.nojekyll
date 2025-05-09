@@ -1,5 +1,0 @@
-cd /path/to/BOL-PSD
-touch .nojekyll
-git add .nojekyll
-git commit -m "fix: bypass Jekyll for leaflet map"
-git push origin main
